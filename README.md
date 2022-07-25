@@ -1,4 +1,4 @@
-<h1 align="center">🔧Ping Pong Discord Bot🔧</h1>
+<h1 align="center">🏓Ping Pong Discord Bot🏓</h1>
 <h2 align="center">Simple PingPong Discord Bot (Using Discord.py)</h2>
 
 - **Join My [Discord Server](https://discord.gg/nqgbAAkgzh)**
